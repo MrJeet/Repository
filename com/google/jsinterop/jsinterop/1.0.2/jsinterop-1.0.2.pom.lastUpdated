@@ -1,0 +1,17 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jun 27 18:20:51 CST 2019
+http\://maven.vaadin.com/vaadin-addons/.error=
+@default-${flow.addons.repo.id}-${flow.addons.repo.url}/.lastUpdated=1561630850559
+@default-${flow.snapshot.repo.id}-${flow.snapshot.repo.url}/.lastUpdated=1561630850555
+http\://maven.vaadin.com/vaadin-prereleases/.error=
+${flow.addons.repo.url}/.error=Could not transfer artifact com.google.jsinterop\:jsinterop\:pom\:1.0.2 from/to ${flow.addons.repo.id} (${flow.addons.repo.url})\: Cannot access ${flow.addons.repo.url} with type default using the available connector factories\: BasicRepositoryConnectorFactory
+http\://maven.vaadin.com/vaadin-prereleases/.lastUpdated=1561630849455
+${flow.snapshot.repo.url}/.error=Could not transfer artifact com.google.jsinterop\:jsinterop\:pom\:1.0.2 from/to ${flow.snapshot.repo.id} (${flow.snapshot.repo.url})\: Cannot access ${flow.snapshot.repo.url} with type default using the available connector factories\: BasicRepositoryConnectorFactory
+https\://repo.spring.io/milestone/.lastUpdated=1561630850532
+https\://maven.vaadin.com/vaadin-prereleases/.lastUpdated=1561630848913
+http\://maven.vaadin.com/vaadin-addons/.lastUpdated=1561630851070
+@default-${flow.release.repo.id}-${flow.release.repo.url}/.lastUpdated=1561630850544
+${flow.release.repo.url}/.error=Could not transfer artifact com.google.jsinterop\:jsinterop\:pom\:1.0.2 from/to ${flow.release.repo.id} (${flow.release.repo.url})\: Cannot access ${flow.release.repo.url} with type default using the available connector factories\: BasicRepositoryConnectorFactory
+https\://repo.maven.apache.org/maven2/.lastUpdated=1561630851558
+https\://repo.spring.io/milestone/.error=
+https\://maven.vaadin.com/vaadin-prereleases/.error=

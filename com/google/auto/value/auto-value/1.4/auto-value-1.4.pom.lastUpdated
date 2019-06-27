@@ -1,0 +1,10 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jun 27 19:27:03 CST 2019
+https\://maven-central.storage-download.googleapis.com/repos/central/data/.error=Could not transfer artifact com.google.auto.value\:auto-value\:pom\:1.4 from/to gcs-mirror (https\://maven-central.storage-download.googleapis.com/repos/central/data)\: maven-central.storage-download.googleapis.com
+@default-gcs-mirror-https\://maven-central.storage-download.googleapis.com/repos/central/data/.lastUpdated=1561634823920
+https\://repo.spring.io/release/.error=Could not transfer artifact com.google.auto.value\:auto-value\:pom\:1.4 from/to spring-releases (https\://repo.spring.io/release)\: repo.spring.io
+@default-spring-milestones-https\://repo.spring.io/libs-milestone-local/.lastUpdated=1561634823908
+@default-spring-releases-https\://repo.spring.io/release/.lastUpdated=1561634823914
+https\://repo.spring.io/libs-milestone-local/.error=Could not transfer artifact com.google.auto.value\:auto-value\:pom\:1.4 from/to spring-milestones (https\://repo.spring.io/libs-milestone-local)\: repo.spring.io
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1561634823900
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.google.auto.value\:auto-value\:pom\:1.4 from/to central (https\://repo.maven.apache.org/maven2)\: repo.maven.apache.org
